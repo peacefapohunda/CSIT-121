@@ -1,0 +1,27 @@
+CSS
+body{
+    background-color:#eaeaea;
+    color:#000033;
+}
+
+    #main-title{
+    text-align: center;
+
+}
+.highlight{
+    font-weight:bold;
+}
+h1, h2,h3 {
+    color:brown;
+    font-family: Arial,Verdana,sans-serif;
+    h1{
+        font-size:2em;
+    }
+}
+p{
+    background-color:green;
+    color:white;
+}
+a{
+    color:purple;
+}
